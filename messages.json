@@ -1,0 +1,12 @@
+[
+    {
+        "name": "张三",
+        "email": "zhangsan@example.com",
+        "message": "这是一个示例留言。"
+    },
+    {
+        "name": "李四",
+        "email": "lisi@example.com",
+        "message": "这也是一个示例留言。"
+    }
+]
